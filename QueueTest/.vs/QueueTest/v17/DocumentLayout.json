@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sajan\\source\\repos\\QueueTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|c:\\users\\sajan\\source\\repos\\queuetest\\queuetest\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|solutionrelative:queuetest\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|c:\\users\\sajan\\source\\repos\\queuetest\\queuetest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|solutionrelative:queuetest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|c:\\users\\sajan\\source\\repos\\queuetest\\queuetest\\blobstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|solutionrelative:queuetest\\blobstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|c:\\users\\sajan\\source\\repos\\queuetest\\queuetest\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|solutionrelative:queuetest\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|c:\\users\\sajan\\source\\repos\\queuetest\\queuetest\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|c:\\users\\sajan\\source\\repos\\queuetest\\queuetest\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|solutionrelative:queuetest\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|c:\\users\\sajan\\source\\repos\\queuetest\\queuetest\\blobstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|solutionrelative:queuetest\\blobstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBFAECBF-6913-44EE-AF7F-0842FCA7C8E5}|QueueTest\\QueueTest.csproj|c:\\users\\sajan\\source\\repos\\queuetest\\queuetest\\queuetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\sajan\\source\\repos\\QueueTest\\QueueTest\\File.cs",
+              "RelativeDocumentMoniker": "QueueTest\\File.cs",
+              "ToolTip": "C:\\Users\\sajan\\source\\repos\\QueueTest\\QueueTest\\File.cs",
+              "RelativeToolTip": "QueueTest\\File.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:18:42.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BlobStorage.cs",
               "DocumentMoniker": "C:\\Users\\sajan\\source\\repos\\QueueTest\\QueueTest\\BlobStorage.cs",
               "RelativeDocumentMoniker": "QueueTest\\BlobStorage.cs",
@@ -70,25 +87,24 @@
               "RelativeToolTip": "QueueTest\\BlobStorage.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAqwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T09:24:52.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T09:24:52.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Function.cs",
               "DocumentMoniker": "C:\\Users\\sajan\\source\\repos\\QueueTest\\QueueTest\\Function.cs",
               "RelativeDocumentMoniker": "QueueTest\\Function.cs",
               "ToolTip": "C:\\Users\\sajan\\source\\repos\\QueueTest\\QueueTest\\Function.cs",
               "RelativeToolTip": "QueueTest\\Function.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T11:00:29.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sajan\\source\\repos\\QueueTest\\QueueTest\\Program.cs",
               "RelativeDocumentMoniker": "QueueTest\\Program.cs",
@@ -96,8 +112,7 @@
               "RelativeToolTip": "QueueTest\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:12:29.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T10:12:29.71Z"
             },
             {
               "$type": "Document",
@@ -107,14 +122,14 @@
               "RelativeDocumentMoniker": "QueueTest\\local.settings.json",
               "ToolTip": "C:\\Users\\sajan\\source\\repos\\QueueTest\\QueueTest\\local.settings.json",
               "RelativeToolTip": "QueueTest\\local.settings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-23T10:05:01.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "QueueTest.csproj",
               "DocumentMoniker": "C:\\Users\\sajan\\source\\repos\\QueueTest\\QueueTest\\QueueTest.csproj",
               "RelativeDocumentMoniker": "QueueTest\\QueueTest.csproj",
@@ -122,8 +137,7 @@
               "RelativeToolTip": "QueueTest\\QueueTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-23T09:48:32.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T09:48:32.629Z"
             },
             {
               "$type": "Document",
@@ -133,7 +147,7 @@
               "RelativeDocumentMoniker": "QueueTest\\Function1.cs",
               "ToolTip": "C:\\Users\\sajan\\source\\repos\\QueueTest\\QueueTest\\Function1.cs",
               "RelativeToolTip": "QueueTest\\Function1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T12:04:10.622Z",
               "EditorCaption": ""
